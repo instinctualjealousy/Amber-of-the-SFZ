@@ -1,0 +1,4111 @@
+// Controls
+<control>
+label_cc81=Release Vol.
+set_cc81=13
+label_cc82=Sustain Vol.
+set_cc82=32
+
+
+// Keyswitch Global
+<global>
+sw_lokey=17
+sw_hikey=23
+sw_default=17
+
+
+// UpDown 1
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\BRD_DW_5.wav
+key=24
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\BRD_UPDW_5.wav
+key=24
+lovel=1
+hivel=75
+
+
+// UpDown 2
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\BRD_DW_4.wav
+key=25
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\BRD_UPDW_4.wav
+key=25
+lovel=1
+hivel=75
+
+
+// UpDown 3
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\BRD_DW_3.wav
+key=26
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\BRD_UPDW_3.wav
+key=26
+lovel=1
+hivel=75
+
+
+// UpDown 4
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\BRD_DW_2.wav
+key=27
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\BRD_UPDW_2.wav
+key=27
+lovel=1
+hivel=75
+
+
+// UpDown 5
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\BRD_DW_1.wav
+key=28
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\BRD_UPDW_1.wav
+key=28
+lovel=1
+hivel=75
+
+
+// Stop 1
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\ST_LOW_L2.wav
+key=30
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\ST_LOW_L1.wav
+key=30
+lovel=1
+hivel=75
+
+
+// Stop 2
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\ST_MID_L2.wav
+key=32
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\ST_MID_L1.wav
+key=32
+lovel=1
+hivel=75
+
+
+// Stop 3
+// Layer 1
+<region>
+sample=Picked Pickup\Picked Samples\ST_HI_L2.wav
+key=34
+lovel=76
+hivel=127
+
+// Layer 2
+<region>
+sample=Picked Pickup\Picked Samples\ST_HI_L1.wav
+key=34
+lovel=1
+hivel=75
+
+
+// Releases
+<group>
+xf_cccurve=gain
+xfin_locc81=1
+xfin_hicc81=127
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_01.wav
+lokey=35
+hikey=36
+pitch_keycenter=36
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_02.wav
+key=37
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_03.wav
+key=38
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_04.wav
+key=39
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_05.wav
+key=40
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_06.wav
+key=41
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_07.wav
+key=42
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_08.wav
+key=43
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_09.wav
+key=44
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_10.wav
+lokey=45
+hikey=46
+pitch_keycenter=46
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_12.wav
+key=47
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_13.wav
+key=48
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_14.wav
+key=49
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_15.wav
+key=50
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_16.wav
+key=51
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_17.wav
+key=52
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_18.wav
+key=53
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_19.wav
+key=54
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_20.wav
+key=55
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_21.wav
+key=56
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_22.wav
+key=57
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_23.wav
+key=58
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_24.wav
+key=59
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_25.wav
+key=60
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_26.wav
+key=61
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_27.wav
+key=62
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_28.wav
+key=63
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_29.wav
+key=64
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_30.wav
+key=65
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_31.wav
+key=66
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_32.wav
+key=67
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_33.wav
+key=68
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_34.wav
+key=69
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_35.wav
+key=70
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_36.wav
+key=71
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_37.wav
+key=72
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_38.wav
+key=73
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_39.wav
+key=74
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_40.wav
+key=75
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_41.wav
+key=76
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_42.wav
+lokey=77
+hikey=78
+pitch_keycenter=78
+lovel=1
+hivel=127
+trigger=release
+
+<region>
+sample=Picked Pickup\Picked Samples\Rel_43.wav
+key=79
+lovel=1
+hivel=127
+trigger=release
+ 
+
+// NORMAL PLAY //
+<master>
+sw_last=17
+sw_label=Normal Play
+
+// Sustains
+<group>
+lovel=1
+hivel=127
+ampeg_attack=0.667
+xf_cccurve=gain
+xfin_locc82=1
+xfin_hicc82=127
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 1.wav
+key=35
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 2.wav
+key=36
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 3.wav
+key=37
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 4.wav
+key=38
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 5.wav
+key=39
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 6.wav
+key=40
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 7.wav
+key=41
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 8.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 9.wav
+key=43
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 10.wav
+key=44
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 11.wav
+key=45
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 12.wav
+key=46
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 13.wav
+key=47
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 14.wav
+key=48
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 15.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 16.wav
+key=50
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 17.wav
+key=51
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 18.wav
+key=52
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 19.wav
+key=53
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 20.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 21.wav
+key=55
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 22.wav
+key=56
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 23.wav
+key=57
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 24.wav
+key=58
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 25.wav
+key=59
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 26.wav
+key=60
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 27.wav
+key=61
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 28.wav
+key=62
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 29.wav
+key=63
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 30.wav
+key=64
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 31.wav
+key=65
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 32.wav
+key=66
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 33.wav
+key=67
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 34.wav
+key=68
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 35.wav
+key=69
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 36.wav
+key=70
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 37.wav
+key=71
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 38.wav
+key=72
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 39.wav
+key=73
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 40.wav
+key=74
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 41.wav
+key=75
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 42.wav
+key=76
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 43.wav
+key=77
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 44.wav
+key=78
+
+<region>
+sample=Picked Pickup\Picked Samples\Main 45.wav
+key=79
+
+
+// Note 01
+// Layer 1
+<group>
+key=35
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_01.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_01.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_01.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_01.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=35
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_01.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_01.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_01.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_01.wav
+volume=12
+seq_position=4
+
+
+// Note 02
+// Layer 1
+<group>
+key=36
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_02.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_02.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_02.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_02.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=36
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_02.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_02.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_02.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_02.wav
+volume=12
+seq_position=4
+
+
+// Note 03
+// Layer 1
+<group>
+key=37
+seq_length=4
+lovel=73
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_03.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_03.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_03.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_03.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=37
+seq_length=4
+lovel=1
+hivel=72
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_03.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_03.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_03.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_03.wav
+volume=12
+seq_position=4
+
+
+// Note 04
+// Layer 1
+<group>
+key=38
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_04.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_04.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_04.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_04.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=38
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_04.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_04.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_04.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_04.wav
+volume=12
+seq_position=4
+
+
+// Note 05
+// Layer 1
+<group>
+key=39
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_05.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_05.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_05.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_05.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=39
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_05.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_05.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_05.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_05.wav
+volume=12
+seq_position=4
+
+
+// Note 06
+// Layer 1
+<group>
+key=40
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_06.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_06.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_06.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_06.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=40
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_06.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_06.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_06.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_06.wav
+volume=12
+seq_position=4
+
+
+// Note 07
+// Layer 1
+<group>
+key=41
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_07.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_07.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_07.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_07.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=41
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_07.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_07.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_07.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_07.wav
+volume=12
+seq_position=4
+
+
+// Note 08
+// Layer 1
+<group>
+key=42
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_08.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_08.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_08.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_08.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=42
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_04.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_04.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_04.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_04.wav
+volume=12
+seq_position=4
+
+
+// Note 09
+// Layer 1
+<group>
+key=43
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_09.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_09.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_09.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_09.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=43
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_09.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_09.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_09.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_09.wav
+volume=12
+seq_position=4
+
+
+// Note 10
+// Layer 1
+<group>
+key=44
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_10.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_10.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_10.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_10.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=44
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_10.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_10.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_10.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_10.wav
+volume=12
+seq_position=4
+
+
+// Note 11
+// Layer 1
+<group>
+key=45
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_11.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_11.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_11.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_11.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=45
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_11.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_11.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_11.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_11.wav
+volume=12
+seq_position=4
+
+
+// Note 12
+// Layer 1
+<group>
+key=46
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_12.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_12.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_12.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_12.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=46
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_12.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_12.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_12.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_12.wav
+volume=12
+seq_position=4
+
+
+// Note 13
+// Layer 1
+<group>
+key=47
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_13.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_13.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_13.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_13.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=47
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_13.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_13.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_13.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_13.wav
+volume=12
+seq_position=4
+
+
+// Note 14
+
+// Layer 1
+<group>
+key=48
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_14.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_14.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_14.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_14.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=48
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_14.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_14.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_14.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_14.wav
+volume=12
+seq_position=4
+
+
+// Note 15
+// Layer 1
+<group>
+key=49
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_15.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_15.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_15.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_15.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=49
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_15.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_15.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_15.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_15.wav
+volume=12
+seq_position=4
+
+
+// Note 16
+// Layer 1
+<group>
+key=50
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_16.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_16.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_16.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_16.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=50
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_16.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_16.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_16.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_16.wav
+volume=12
+seq_position=4
+
+
+// Note 17
+// Layer 1
+<group>
+key=51
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_17.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_17.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_17.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_17.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=51
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_17.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_17.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_17.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_17.wav
+volume=12
+seq_position=4
+
+
+// Note 18
+// Layer 1
+<group>
+key=52
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_18.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_18.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_18.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_18.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=52
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_18.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_18.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_18.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_18.wav
+volume=12
+seq_position=4
+
+
+// Note 19
+// Layer 1
+<group>
+key=53
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_19.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_19.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_19.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_19.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=53
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_19.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_19.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_19.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_19.wav
+volume=12
+seq_position=4
+
+
+// Note 20
+// Layer 1
+<group>
+key=54
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_20.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_20.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_20.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_20.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=54
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_20.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_20.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_20.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_20.wav
+volume=12
+seq_position=4
+
+
+// Note 21
+// Layer 1
+<group>
+key=55
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_21.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_21.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_21.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_21.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=55
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_21.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_21.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_21.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_21.wav
+volume=12
+seq_position=4
+
+
+// Note 22
+// Layer 1
+<group>
+key=56
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_22.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_22.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_22.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_22.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=56
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_22.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_22.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_22.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_22.wav
+volume=12
+seq_position=4
+
+
+// Note 23
+// Layer 1
+<group>
+key=57
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_23.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_23.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_23.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_23.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=57
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_23.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_23.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_23.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_23.wav
+volume=12
+seq_position=4
+
+
+// Note 24
+// Layer 1
+<group>
+key=58
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_24.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_24.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_24.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_24.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=58
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_24.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_24.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_24.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_24.wav
+volume=12
+seq_position=4
+
+
+// Note 25
+// Layer 1
+<group>
+key=59
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_25.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_25.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_25.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_25.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=59
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_25.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_25.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_25.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_25.wav
+volume=12
+seq_position=4
+
+
+// Note 26
+// Layer 1
+<group>
+key=60
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_26.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_26.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_26.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_26.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=60
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_26.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_26.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_26.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_26.wav
+volume=12
+seq_position=4
+
+
+// Note 27
+// Layer 1
+<group>
+key=61
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_27.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_27.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_27.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_27.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=61
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_27.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_27.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_27.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_27.wav
+volume=12
+seq_position=4
+
+
+// Note 28
+// Layer 1
+<group>
+key=62
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_28.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_28.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_28.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_28.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=62
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_28.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_28.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_28.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_28.wav
+volume=12
+seq_position=4
+
+
+// Note 29
+// Layer 1
+<group>
+key=63
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_29.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_29.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_29.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_29.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=63
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_29.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_29.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_29.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_29.wav
+volume=12
+seq_position=4
+
+
+// Note 30
+// Layer 1
+<group>
+key=64
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_30.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_30.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_30.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_30.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=64
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_30.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_30.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_30.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_30.wav
+volume=12
+seq_position=4
+
+
+// Note 31
+// Layer 1
+<group>
+key=65
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_31.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_31.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_31.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_31.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=65
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_31.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_31.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_31.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_31.wav
+volume=12
+seq_position=4
+
+
+// Note 32
+// Layer 1
+<group>
+key=66
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_32.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_32.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_32.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_32.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=66
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_32.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_32.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_32.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_32.wav
+volume=12
+seq_position=4
+
+
+// Note 33
+// Layer 1
+<group>
+key=67
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_33.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_33.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_33.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_33.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=67
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_33.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_33.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_33.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_33.wav
+volume=12
+seq_position=4
+
+
+// Note 34
+// Layer 1
+<group>
+key=68
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_34.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_34.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_34.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_34.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=68
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_34.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_34.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_34.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_34.wav
+volume=12
+seq_position=4
+
+
+// Note 35
+// Layer 1
+<group>
+key=69
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_35.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_35.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_35.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_35.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=69
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_35.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_35.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_35.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_35.wav
+volume=12
+seq_position=4
+
+
+// Note 36
+// Layer 1
+<group>
+key=70
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_36.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_36.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_36.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_36.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=70
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_36.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_36.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_36.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_36.wav
+volume=12
+seq_position=4
+
+
+// Note 37
+// Layer 1
+<group>
+key=71
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_37.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_37.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_37.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_37.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=71
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_37.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_37.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_37.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_37.wav
+volume=12
+seq_position=4
+
+
+// Note 38
+// Layer 1
+<group>
+key=72
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_38.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_38.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_38.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_38.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=72
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_38.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_38.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_38.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_38.wav
+volume=12
+seq_position=4
+
+
+// Note 39
+// Layer 1
+<group>
+key=73
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_39.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_39.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_39.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_39.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=73
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_39.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_39.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_39.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_39.wav
+volume=12
+seq_position=4
+
+
+// Note 40
+// Layer 1
+<group>
+key=74
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_40.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_40.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_40.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_40.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=74
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_40.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_40.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_40.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_40.wav
+volume=12
+seq_position=4
+
+
+// Note 41
+// Layer 1
+<group>
+key=75
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_41.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_41.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_41.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_41.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=75
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_41.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_41.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_41.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_41.wav
+volume=12
+seq_position=4
+
+
+// Note 42
+// Layer 1
+<group>
+key=76
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_42.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_42.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_42.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_42.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=76
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_42.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_42.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_42.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_42.wav
+volume=12
+seq_position=4
+
+
+// Note 43
+// Layer 1
+<group>
+key=77
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_43.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_43.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_43.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_43.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=77
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_43.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_43.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_43.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_43.wav
+volume=12
+seq_position=4
+
+
+// Note 44
+// Layer 1
+<group>
+key=78
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_44.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_44.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_44.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_44.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=78
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_44.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_44.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_44.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_44.wav
+volume=12
+seq_position=4
+
+
+// Note 45
+// Layer 1
+<group>
+key=79
+seq_length=4
+lovel=76
+hivel=127
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5A_45.wav
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5B_45.wav
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5C_45.wav
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L5D_45.wav
+seq_position=4
+
+// Layer 2
+<group>
+key=79
+seq_length=4
+lovel=1
+hivel=75
+ampeg_decay=0.75
+ampeg_sustain=25
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1A_45.wav
+volume=12
+seq_position=1
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1B_45.wav
+volume=12
+seq_position=2
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1C_45.wav
+volume=12
+seq_position=3
+
+<region>
+sample=Picked Pickup\Picked Samples\PK_L1D_45.wav
+volume=12
+seq_position=4
+
+
+// SLIDEUP FAST //
+<master>
+sw_last=18
+sw_label=SlideUP Fast
+
+<group>
+lovel=1
+hivel=127
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_01.wav
+key=35
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_02.wav
+key=36
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_03.wav
+key=37
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_04.wav
+key=38
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_05.wav
+key=39
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_06.wav
+key=40
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_07.wav
+key=41
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_08.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_09.wav
+key=43
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_10.wav
+key=44
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_11.wav
+key=45
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_12.wav
+key=46
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_13.wav
+key=47
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_14.wav
+key=48
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_15.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_16.wav
+key=50
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_17.wav
+key=51
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_18.wav
+key=52
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_19.wav
+key=53
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_20.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_21.wav
+key=55
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_22.wav
+key=56
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_23.wav
+key=57
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_24.wav
+key=58
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_25.wav
+key=59
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_26.wav
+key=60
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_27.wav
+key=61
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_28.wav
+key=62
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_29.wav
+key=63
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_30.wav
+key=64
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_31.wav
+key=65
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_32.wav
+key=66
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_33.wav
+key=67
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_34.wav
+key=68
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_35.wav
+key=69
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_36.wav
+key=70
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_37.wav
+key=71
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_38.wav
+key=72
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_39.wav
+key=73
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_PK_40.wav
+key=74
+
+
+// SLIDEUP SLOW //
+<master>
+sw_last=19
+sw_label=SlideUP Slow
+
+<group>
+lovel=1
+hivel=127
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_01.wav
+key=35
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_02.wav
+key=36
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_03.wav
+key=37
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_04.wav
+key=38
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_05.wav
+key=39
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_06.wav
+key=40
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_07.wav
+key=41
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_08.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_09.wav
+key=43
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_10.wav
+key=44
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_11.wav
+key=45
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_12.wav
+key=46
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_13.wav
+key=47
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_14.wav
+key=48
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_15.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_16.wav
+key=50
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_17.wav
+key=51
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_18.wav
+key=52
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_19.wav
+key=53
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_20.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_21.wav
+key=55
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_22.wav
+key=56
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_23.wav
+key=57
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_24.wav
+key=58
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_25.wav
+key=59
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_26.wav
+key=60
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_27.wav
+key=61
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_28.wav
+key=62
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_29.wav
+key=63
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_30.wav
+key=64
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_31.wav
+key=65
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_32.wav
+key=66
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_33.wav
+key=67
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_34.wav
+key=68
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_35.wav
+key=69
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_36.wav
+key=70
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_37.wav
+key=71
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_38.wav
+key=72
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Slide_SLW_PK_39.wav
+key=73
+
+
+// HAMMERON FAST //
+<master>
+sw_last=20
+sw_label=HammerOn Fast
+
+<group>
+lovel=1
+hivel=127
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_01.wav
+key=35
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_02.wav
+key=36
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_03.wav
+key=37
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_04.wav
+key=38
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_05.wav
+key=39
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_06.wav
+key=40
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_07.wav
+key=41
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_08.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_09.wav
+key=43
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_10.wav
+key=44
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_11.wav
+key=45
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_12.wav
+key=46
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_13.wav
+key=47
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_14.wav
+key=48
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_15.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_16.wav
+key=50
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_17.wav
+key=51
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_18.wav
+key=52
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_19.wav
+key=53
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_20.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_21.wav
+key=55
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_22.wav
+key=56
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_23.wav
+key=57
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_24.wav
+key=58
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_25.wav
+key=59
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_26.wav
+key=60
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_27.wav
+key=61
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_28.wav
+key=62
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_29.wav
+key=63
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_30.wav
+key=64
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_31.wav
+key=65
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_32.wav
+key=66
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_33.wav
+key=67
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_34.wav
+key=68
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_35.wav
+key=69
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_36.wav
+key=70
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_37.wav
+key=71
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_38.wav
+key=72
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_39.wav
+key=73
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_PK_40.wav
+key=74
+
+
+// HAMMERON SLOW //
+<master>
+sw_last=21
+sw_label=HammerOn Slow
+
+<group>
+lovel=1
+hivel=127
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_01.wav
+key=35
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_02.wav
+key=36
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_03.wav
+key=37
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_04.wav
+key=38
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_05.wav
+key=39
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_06.wav
+key=40
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_07.wav
+key=41
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_08.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_09.wav
+key=43
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_10.wav
+key=44
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_11.wav
+key=45
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_12.wav
+key=46
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_13.wav
+key=47
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_14.wav
+key=48
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_15.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_16.wav
+key=50
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_17.wav
+key=51
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_18.wav
+key=52
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_19.wav
+key=53
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_20.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_21.wav
+key=55
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_22.wav
+key=56
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_23.wav
+key=57
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_24.wav
+key=58
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_25.wav
+key=59
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_26.wav
+key=60
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_27.wav
+key=61
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_28.wav
+key=62
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_29.wav
+key=63
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_30.wav
+key=64
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_31.wav
+key=65
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_32.wav
+key=66
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_33.wav
+key=67
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_34.wav
+key=68
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_35.wav
+key=69
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_36.wav
+key=70
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_37.wav
+key=71
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_38.wav
+key=72
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_39.wav
+key=73
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_HamON_SLW_PK_40.wav
+key=74
+
+
+// TRILLS //
+<master>
+sw_last=22
+sw_label=Trills
+
+<group>
+lovel=1
+hivel=127
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_01.wav
+key=35
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_02.wav
+key=36
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_03.wav
+key=37
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_04.wav
+key=38
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_05.wav
+key=39
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_06.wav
+key=40
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_07.wav
+key=41
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_08.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_09.wav
+key=43
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_10.wav
+key=44
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_11.wav
+key=45
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_12.wav
+key=46
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_13.wav
+key=47
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_14.wav
+key=48
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_15.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_16.wav
+key=50
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_17.wav
+key=51
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_18.wav
+key=52
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_19.wav
+key=53
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_20.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_21.wav
+key=55
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_22.wav
+key=56
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_23.wav
+key=57
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_24.wav
+key=58
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_25.wav
+key=59
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_26.wav
+key=60
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_27.wav
+key=61
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_28.wav
+key=62
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_29.wav
+key=63
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_30.wav
+key=64
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_31.wav
+key=65
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_32.wav
+key=66
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_33.wav
+key=67
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_34.wav
+key=68
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_35.wav
+key=69
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_36.wav
+key=70
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_37.wav
+key=71
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_38.wav
+key=72
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_39.wav
+key=73
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_TRI_PK_40.wav
+key=74
+
+
+// HARMONICS //
+<master>
+sw_last=23
+sw_label=Harmonics
+
+<group>
+lovel=1
+hivel=127
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_18.wav
+lokey=35
+hikey=37
+pitch_keycenter=35
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_27.wav
+lokey=38
+hikey=39
+pitch_keycenter=38
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_17.wav
+lokey=40
+hikey=41
+pitch_keycenter=40
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_12.wav
+key=42
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_26.wav
+lokey=43
+hikey=44
+pitch_keycenter=43
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_16.wav
+lokey=45
+hikey=48
+pitch_keycenter=45
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_06.wav
+key=49
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_14.wav
+lokey=50
+hikey=51
+pitch_keycenter=50
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_09.wav
+lokey=52
+hikey=53
+pitch_keycenter=52
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_05.wav
+key=54
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_13.wav
+lokey=55
+hikey=56
+pitch_keycenter=55
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_08.wav
+lokey=57
+hikey=58
+pitch_keycenter=57
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_03.wav
+lokey=59
+hikey=61
+pitch_keycenter=59
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_07.wav
+lokey=62
+hikey=63
+pitch_keycenter=62
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_02.wav
+lokey=64
+hikey=68
+pitch_keycenter=64
+
+<region>
+sample=Picked Pickup\Picked Samples\DB_Harm_01.wav
+lokey=69
+hikey=71
+pitch_keycenter=69
+
