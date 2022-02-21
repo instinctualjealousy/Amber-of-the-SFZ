@@ -1,5 +1,5 @@
-Made for my own personal usage, as I had pirated many things for "The Amber in Embers" album back in 2012.<br />
-The album will be re-released soon, and I want it to be piracy-free this time around.<br />
+These are made for my own personal usage, as I had pirated many things for "The Amber in Embers" album back in 2012.<br />
+Said album will be re-released soon, and I want it to be piracy-free this time around.<br />
 Feel free to fork and improve these scripts if you like, as my knowledge of SFZ is minimal!
 - I purchased DirectBass 2.0 a couple years ago with the intent of reworking this album with entirely legally obtained instruments and plugins
 - I never purchased Kontakt, so I needed a way to load DirectBass 2.0 up- Music Production 2: Enter Sforzando
