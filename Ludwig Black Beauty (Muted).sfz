@@ -1,0 +1,411 @@
+// Global
+<global>
+volume=8
+loop_mode=one_shot
+amp_velcurve_1=0.75
+
+// Controls
+<control>
+default_path=Samples\
+
+
+//// Snare Hits
+// Extra Hard Hit
+<group>
+hikey=38
+lokey=38
+pitch_keycenter=38
+seq_length=12
+lovel=112
+hivel=127
+
+<region>
+sample=DW_BlackBeauty 049 [xhrd].wav
+seq_position=1
+
+<region>
+sample=DW_BlackBeauty 050 [xhrd].wav
+seq_position=2
+
+<region>
+sample=DW_BlackBeauty 051 [xhrd].wav
+seq_position=3
+
+<region>
+sample=DW_BlackBeauty 052 [xhrd].wav
+seq_position=4
+
+<region>
+sample=DW_BlackBeauty 053 [xhrd].wav
+seq_position=5
+
+<region>
+sample=DW_BlackBeauty 054 [xhrd].wav
+seq_position=6
+
+<region>
+sample=DW_BlackBeauty 055 [xhrd].wav
+seq_position=7
+
+<region>
+sample=DW_BlackBeauty 056 [xhrd].wav
+seq_position=8
+
+<region>
+sample=DW_BlackBeauty 057 [xhrd].wav
+seq_position=9
+
+<region>
+sample=DW_BlackBeauty 058 [xhrd].wav
+seq_position=10
+
+<region>
+sample=DW_BlackBeauty 059 [xhrd].wav
+seq_position=11
+
+<region>
+sample=DW_BlackBeauty 060 [xhrd].wav
+seq_position=12
+
+// Hard Hit
+<group>
+hikey=38
+lokey=38
+pitch_keycenter=38
+seq_length=12
+lovel=95
+hivel=111
+
+<region>
+sample=DW_BlackBeauty 037 [hrd].wav
+seq_position=1
+
+<region>
+sample=DW_BlackBeauty 038 [hrd].wav
+seq_position=2
+
+<region>
+sample=DW_BlackBeauty 039 [hrd].wav
+seq_position=3
+
+<region>
+sample=DW_BlackBeauty 040 [hrd].wav
+seq_position=4
+
+<region>
+sample=DW_BlackBeauty 041 [hrd].wav
+seq_position=5
+
+<region>
+sample=DW_BlackBeauty 042 [hrd].wav
+seq_position=6
+
+<region>
+sample=DW_BlackBeauty 043 [hrd].wav
+seq_position=7
+
+<region>
+sample=DW_BlackBeauty 044 [hrd].wav
+seq_position=8
+
+<region>
+sample=DW_BlackBeauty 045 [hrd].wav
+seq_position=9
+
+<region>
+sample=DW_BlackBeauty 046 [hrd].wav
+seq_position=10
+
+<region>
+sample=DW_BlackBeauty 047 [hrd].wav
+seq_position=11
+
+<region>
+sample=DW_BlackBeauty 048 [hrd].wav
+seq_position=12
+
+// Medium Hit
+<group>
+hikey=38
+lokey=38
+pitch_keycenter=38
+seq_length=12
+lovel=78
+hivel=94
+
+<region>
+sample=DW_BlackBeauty 025 [med].wav
+seq_position=1
+
+<region>
+sample=DW_BlackBeauty 026 [med].wav
+seq_position=2
+
+<region>
+sample=DW_BlackBeauty 027 [med].wav
+seq_position=3
+
+<region>
+sample=DW_BlackBeauty 028 [med].wav
+seq_position=4
+
+<region>
+sample=DW_BlackBeauty 029 [med].wav
+seq_position=5
+
+<region>
+sample=DW_BlackBeauty 030 [med].wav
+seq_position=6
+
+<region>
+sample=DW_BlackBeauty 031 [med].wav
+seq_position=7
+
+<region>
+sample=DW_BlackBeauty 032 [med].wav
+seq_position=8
+
+<region>
+sample=DW_BlackBeauty 033 [med].wav
+seq_position=9
+
+<region>
+sample=DW_BlackBeauty 034 [med].wav
+seq_position=10
+
+<region>
+sample=DW_BlackBeauty 035 [med].wav
+seq_position=11
+
+<region>
+sample=DW_BlackBeauty 036 [med].wav
+seq_position=12
+
+// Soft Hit
+<group>
+hikey=38
+lokey=38
+pitch_keycenter=38
+seq_length=12
+lovel=45
+hivel=77
+
+<region>
+sample=DW_BlackBeauty 013 [sft].wav
+seq_position=1
+
+<region>
+sample=DW_BlackBeauty 014 [sft].wav
+seq_position=2
+
+<region>
+sample=DW_BlackBeauty 015 [sft].wav
+seq_position=3
+
+<region>
+sample=DW_BlackBeauty 016 [sft].wav
+seq_position=4
+
+<region>
+sample=DW_BlackBeauty 017 [sft].wav
+seq_position=5
+
+<region>
+sample=DW_BlackBeauty 018 [sft].wav
+seq_position=6
+
+<region>
+sample=DW_BlackBeauty 019 [sft].wav
+seq_position=7
+
+<region>
+sample=DW_BlackBeauty 020 [sft].wav
+seq_position=8
+
+<region>
+sample=DW_BlackBeauty 021 [sft].wav
+seq_position=9
+
+<region>
+sample=DW_BlackBeauty 022 [sft].wav
+seq_position=10
+
+<region>
+sample=DW_BlackBeauty 023 [sft].wav
+seq_position=11
+
+<region>
+sample=DW_BlackBeauty 024 [sft].wav
+seq_position=12
+
+// Extra Soft Hit
+<group>
+hikey=38
+lokey=38
+pitch_keycenter=38
+seq_length=12
+lovel=0
+hivel=44
+
+<region>
+sample=DW_BlackBeauty 001 [xsft].wav
+seq_position=1
+
+<region>
+sample=DW_BlackBeauty 002 [xsft].wav
+seq_position=2
+
+<region>
+sample=DW_BlackBeauty 003 [xsft].wav
+seq_position=3
+
+<region>
+sample=DW_BlackBeauty 004 [xsft].wav
+seq_position=4
+
+<region>
+sample=DW_BlackBeauty 005 [xsft].wav
+seq_position=5
+
+<region>
+sample=DW_BlackBeauty 006 [xsft].wav
+seq_position=6
+
+<region>
+sample=DW_BlackBeauty 007 [xsft].wav
+seq_position=7
+
+<region>
+sample=DW_BlackBeauty 008 [xsft].wav
+seq_position=8
+
+<region>
+sample=DW_BlackBeauty 009 [xsft].wav
+seq_position=9
+
+<region>
+sample=DW_BlackBeauty 010 [xsft].wav
+seq_position=10
+
+<region>
+sample=DW_BlackBeauty 011 [xsft].wav
+seq_position=11
+
+<region>
+sample=DW_BlackBeauty 012 [xsft].wav
+seq_position=12
+
+
+//// Side Stick/Rim Crack
+<group>
+hikey=37
+lokey=37
+pitch_keycenter=37
+seq_length=26
+lovel=0
+hivel=127
+
+<region>
+sample=DW_BlackBeauty 061 [crk].wav
+seq_position=1
+
+<region>
+sample=DW_BlackBeauty 062 [crk].wav
+seq_position=2
+
+<region>
+sample=DW_BlackBeauty 063 [crk].wav
+seq_position=3
+
+<region>
+sample=DW_BlackBeauty 064 [crk].wav
+seq_position=4
+
+<region>
+sample=DW_BlackBeauty 065 [crk].wav
+seq_position=5
+
+<region>
+sample=DW_BlackBeauty 066 [crk].wav
+seq_position=6
+
+<region>
+sample=DW_BlackBeauty 067 [crk].wav
+seq_position=7
+
+<region>
+sample=DW_BlackBeauty 068 [crk].wav
+seq_position=8
+
+<region>
+sample=DW_BlackBeauty 069 [crk].wav
+seq_position=9
+
+<region>
+sample=DW_BlackBeauty 070 [crk].wav
+seq_position=10
+
+<region>
+sample=DW_BlackBeauty 071 [crk].wav
+seq_position=11
+
+<region>
+sample=DW_BlackBeauty 072 [crk].wav
+seq_position=12
+
+<region>
+sample=DW_BlackBeauty 073 [crk].wav
+seq_position=13
+
+<region>
+sample=DW_BlackBeauty 074 [crk].wav
+seq_position=14
+
+<region>
+sample=DW_BlackBeauty 075 [crk].wav
+seq_position=15
+
+<region>
+sample=DW_BlackBeauty 076 [crk].wav
+seq_position=16
+
+<region>
+sample=DW_BlackBeauty 077 [crk].wav
+seq_position=17
+
+<region>
+sample=DW_BlackBeauty 078 [crk].wav
+seq_position=18
+
+<region>
+sample=DW_BlackBeauty 079 [crk].wav
+seq_position=19
+
+<region>
+sample=DW_BlackBeauty 080 [crk].wav
+seq_position=20
+
+<region>
+sample=DW_BlackBeauty 081 [crk].wav
+seq_position=21
+
+<region>
+sample=DW_BlackBeauty 082 [crk].wav
+seq_position=22
+
+<region>
+sample=DW_BlackBeauty 083 [crk].wav
+seq_position=23
+
+<region>
+sample=DW_BlackBeauty 084 [crk].wav
+seq_position=24
+
+<region>
+sample=DW_BlackBeauty 085 [crk].wav
+seq_position=25
+
+<region>
+sample=DW_BlackBeauty 086 [crk].wav
+seq_position=26
+
