@@ -2,7 +2,7 @@
 <global>
 volume=8
 loop_mode=one_shot
-amp_velcurve_1=0.75
+amp_velcurve_1=0.5
 
 // Controls
 <control>
